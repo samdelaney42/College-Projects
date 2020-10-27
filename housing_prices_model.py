@@ -1,3 +1,4 @@
+# This program takes housing data from a town Idaho and uses it to train a model to predict housing prices based on the attributes of a house
 # Import some packages for data science
 import pandas as pd
 import numpy as np
